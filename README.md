@@ -34,7 +34,15 @@
 
 ## 完整看板
 
-📄 完整四页看板（总体分析 / 用户分析 / 收入分析 / 对战分析）见 [`dashboard.pdf`](./dashboard.pdf)
+📄 完整四页看板（总体分析 / 用户分析 / 收入分析 / 对战分析）
+
+<img width="1166" height="659" alt="Screenshot 2026-09-27 at 10 58 51 PM" src="https://github.com/user-attachments/assets/e8ddd53f-ad5c-405b-8c9a-f7e8d4a08ec0" />
+
+<img width="1121" height="641" alt="Screenshot 2026-09-27 at 11 00 03 PM" src="https://github.com/user-attachments/assets/1a58b7d1-f183-46a7-b373-988c7f6e17b2" />
+
+<img width="1118" height="647" alt="Screenshot 2026-09-27 at 11 01 26 PM" src="https://github.com/user-attachments/assets/19c693ea-7ee5-4e3e-80a5-54864dbb2deb" />
+
+![Screenshot 2026-09-27 at 11 02 35 PM](https://github.com/user-attachments/assets/abaae497-f827-45c5-bd05-ca07d317140f)
 
 ## 技术栈
 
